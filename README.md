@@ -131,12 +131,23 @@ Username: root
 Password: (empty)
 ```
 
----
 
 ## Owner
 
 * Syed Yaseen Shah 
+## Screenshots
 
+### Login Page
+![Login Screen](screenshots/Screenshot%202026-05-01%20181131.png)
+
+### Dashboard
+![Library Management Dashboard](screenshots/Screenshot%202026-05-01%20181200.png)
+
+### Register Member Form
+![Register Member](screenshots/Screenshot%202026-05-01%20184633.png)
+
+### Member Details
+![Member Details](screenshots/Screenshot%202026-05-01%20184657.png)
 
 ---
 
